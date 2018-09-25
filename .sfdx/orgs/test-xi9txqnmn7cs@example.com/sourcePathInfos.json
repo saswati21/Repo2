@@ -1,0 +1,606 @@
+[
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030897,
+            "changeTime": 1537875030897,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030897,
+            "changeTime": 1537875030897,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875031036,
+            "changeTime": 1537875031036,
+            "contentHash": "1822748299071dcd30778b31e0e522eda00a875a",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030901,
+            "changeTime": 1537875030901,
+            "contentHash": "f5a7674b73f512b967280812756e2a4d98f5f3a9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails.cls",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails.cls",
+            "isDirectory": false,
+            "size": 308,
+            "modifiedTime": 1537875030898,
+            "changeTime": 1537875030898,
+            "contentHash": "d5bb55481704550f419788fc13ea7f5a646b0995",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails.cls-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1537875030899,
+            "changeTime": 1537875030899,
+            "contentHash": "36653e7488879c0ed6d7bd08805295fa678ca822",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails1.cls",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails1.cls",
+            "isDirectory": false,
+            "size": 227,
+            "modifiedTime": 1537875030901,
+            "changeTime": 1537875030901,
+            "contentHash": "e2eaa8d127ca060ec12452172ac1451b608ebf1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails1.cls-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\classes\\AccountDetails1.cls-meta.xml",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1537875030901,
+            "changeTime": 1537875030901,
+            "contentHash": "c13f7d99a71a3f8f0a40f33425ceb5e91dfc6aa5",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537875325522,
+            "changeTime": 1537875325522,
+            "contentHash": "87bf17638619ce49f7c9c7b86a36cbf9359db3a2"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9903,
+            "modifiedTime": 1537875030903,
+            "changeTime": 1537875030903,
+            "contentHash": "e79c2038835618800fcee3582a41cc706bf1a5dd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9853,
+            "modifiedTime": 1537875030904,
+            "changeTime": 1537875030904,
+            "contentHash": "db090c2c402d1fb04492a7227d0e9ba7a8060675",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9903,
+            "modifiedTime": 1537875030907,
+            "changeTime": 1537875030907,
+            "contentHash": "bceeba82dca0275915d264f12bb572320ab90772",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9853,
+            "modifiedTime": 1537875030909,
+            "changeTime": 1537875030909,
+            "contentHash": "0aea5f0e99474db0931ca55fbbc19d72581c61ba",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\City__c-Bangalore Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\City__c-Bangalore Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3447,
+            "modifiedTime": 1537875030910,
+            "changeTime": 1537875030910,
+            "contentHash": "36357c563e44b74a8ff41c37f45317004968c66c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537875325490,
+            "changeTime": 1537875325490,
+            "contentHash": "83346402d8e43c094a231f8e628bdcb78fbd7957"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030912,
+            "changeTime": 1537875030912,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030912,
+            "changeTime": 1537875030912,
+            "contentHash": "605072b536470069d1e560e24a845028ee4835d8",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Account\\fields\\Account_Innfo__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Account\\fields\\Account_Innfo__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 389,
+            "modifiedTime": 1537875030913,
+            "changeTime": 1537875030913,
+            "contentHash": "0551bd5e725549c3618ed7d46b21c2336a9acf6b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030975,
+            "changeTime": 1537875030975,
+            "contentHash": "55f2d3950ef333b5541f7b945901adb8d48b2041",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\City__c.object-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\City__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2240,
+            "modifiedTime": 1537875030914,
+            "changeTime": 1537875030914,
+            "contentHash": "6e94febe1e4b0a02fe878ce9bf16f6bdae8be6dc",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030972,
+            "changeTime": 1537875030972,
+            "contentHash": "804923b61ef265ed156bd8c3357ec677b2cd3a79",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields\\City_No__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields\\City_No__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 378,
+            "modifiedTime": 1537875030915,
+            "changeTime": 1537875030915,
+            "contentHash": "fd081079c4a28e5d02c5068ae4e9ef8182c01192",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields\\Country__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1030,
+            "modifiedTime": 1537875030916,
+            "changeTime": 1537875030916,
+            "contentHash": "bc7842cf82dda2081b99ea2d90255d4d8405eddd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields\\State__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 1050,
+            "modifiedTime": 1537875030974,
+            "changeTime": 1537875030974,
+            "contentHash": "3e66ebbc8bf1f947099da2a2fe1dd9cadaf31364",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\listViews",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875030976,
+            "changeTime": 1537875030976,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\City__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 210,
+            "modifiedTime": 1537875030977,
+            "changeTime": 1537875030977,
+            "contentHash": "0e12c1b5a25bc6685e00c26cb98c9986fc1d82c4",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875031031,
+            "changeTime": 1537875031031,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18806,
+            "modifiedTime": 1537875325600,
+            "changeTime": 1537875325600,
+            "contentHash": "9e4790db6697d0f0937ee4044328e671a9d898c4"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5093,
+            "modifiedTime": 1537875325553,
+            "changeTime": 1537875325553,
+            "contentHash": "8fe141e534b85518760d01d42622c41e49fd1469"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5085,
+            "modifiedTime": 1537875325522,
+            "changeTime": 1537875325522,
+            "contentHash": "6c8ecaf3969665fb5a2eeb51904f28fbf0c1f467"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5427,
+            "modifiedTime": 1537875325553,
+            "changeTime": 1537875325553,
+            "contentHash": "490d540c687302c110eb82322add981292d00ad5"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875031042,
+            "changeTime": 1537875031042,
+            "contentHash": "20a5799564166b38b1afbc3b4f921df2f17d8e13",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger",
+            "isDirectory": false,
+            "size": 409,
+            "modifiedTime": 1537875031039,
+            "changeTime": 1537875031039,
+            "contentHash": "8b7e2e36fdfc9d219f159ac5b0f5100b3ca2028d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\triggers\\bangaloreTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 183,
+            "modifiedTime": 1537875031043,
+            "changeTime": 1537875031043,
+            "contentHash": "e400f5829794ad8a969c0e8dc48352687f6fe9ed",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2",
+        {
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1537875031050,
+            "changeTime": 1537875031050,
+            "contentHash": "f0104de975dc524ccedf07231c03fbca11880937",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Contact\\fields\\Contact_Info__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Contact\\fields\\Contact_Info__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 376,
+            "modifiedTime": 1537875325490,
+            "changeTime": 1537875325490,
+            "contentHash": "5913214fd48d67a306e2a5d2c6e97dc2176220f0"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9611,
+            "modifiedTime": 1537875325506,
+            "changeTime": 1537875325506,
+            "contentHash": "f6f10d41649a0fef07569bc32422d20207e31e36"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9611,
+            "modifiedTime": 1537875325506,
+            "changeTime": 1537875325506,
+            "contentHash": "94694838a08bb1a0fb24c08a7b083bb6ead31b1b"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9320,
+            "modifiedTime": 1537875325522,
+            "changeTime": 1537875325522,
+            "contentHash": "e1cc4031cb6c6b72abd8f103e6f016b7fb9a418b"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\layouts\\Contact-Contact %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9635,
+            "modifiedTime": 1537875325522,
+            "changeTime": 1537875325522,
+            "contentHash": "302ad58255be188a8e38649a344c52a32ea00b8e"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Contact\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Contact\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537875325490,
+            "changeTime": 1537875325490,
+            "contentHash": "f029d5b2af888796918fb793a6cf4ac399fe42da"
+        }
+    ],
+    [
+        "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Contact",
+        {
+            "state": "u",
+            "sourcePath": "C:\\MySecondProject\\unique\\Repo2\\force-app\\main\\default\\objects\\Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537875325490,
+            "changeTime": 1537875325490,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ]
+]
